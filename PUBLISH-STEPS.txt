@@ -1,0 +1,7 @@
+BhashaLive — Publish Ready
+1. Upload this folder to a new GitHub repository.
+2. Open Actions → Build BhashaLive → Run workflow.
+3. Download the APK artifact for direct installation/sharing.
+4. Download the AAB artifact for Google Play Console.
+
+Note: this is still a prototype. Real cloud AI translation, user accounts, privacy policy, analytics, and production signing should be added before public release.
